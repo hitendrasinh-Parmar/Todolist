@@ -6,7 +6,7 @@
     outline: none;  
 }
 body{
-  /*background-image: linear-gradient(120deg, #f6d365, #fda0a5); */
+
     background-image:linear-gradient(to right, rgb(142, 45, 226), rgb(74, 0, 224));
     color: white;
     min-height: 100vh;
